@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "paipobrebot.py",
+        "use": "@vercel/python"
+      }
+    ]
+  }
+  
